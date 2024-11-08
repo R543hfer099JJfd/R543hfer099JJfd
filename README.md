@@ -13,8 +13,10 @@ _An 1884 oil on canvas [painting](https://commons.wikimedia.org/wiki/File:Carl_N
 Contact: (my account name) (at) (proton) (dot) (me)
 
 <details markdown=1>
+Roasted on 2024-09-16, 22:39 by [this tool](https://github-roast.pages.dev/)
+
 <summary>
-Roasted on 2024-09-16, 22:39 by [this tool](https://github-roast.pages.dev/):
+...the roast:
 </summary>
 
 > Oh boy, where do we start with this digital desert? First off, your username looks like a bot trying to guess a human name. It screams "I'm trying way too hard to be anonymous" but ends up just looking like a failed CAPTCHA. Your bio? Wait, what bio? You might as well just have written “I’m lost” in big bold letters because right now, you have zero followers and zero following—it's like your social life is as barren as this GitHub account.
